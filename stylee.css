@@ -1,0 +1,16 @@
+body{
+    background: gray;
+    color: white;
+}
+
+th, td {
+  background-color: #96D4D4;
+  border: 1px solid black;
+  border-radius: 10px;
+  border-style: outset;
+  border-color: #96D4D4;
+}
+
+h1,h2,h3{
+  font-family: arial;
+}
